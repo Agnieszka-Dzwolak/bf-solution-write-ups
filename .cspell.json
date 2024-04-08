@@ -22,7 +22,11 @@
     "Exercism",
     "exercism",
     "gitbook",
-    "Codewar"
+    "Codewar",
+    "Paddo",
+    "paddo",
+    "Zizo",
+    "zizo"
   ],
   "ignorePaths": [
     "node_modules/**",
